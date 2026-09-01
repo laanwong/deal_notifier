@@ -1,13 +1,20 @@
+import requests
+import smtplib
+from email.mime.text import MIMEText
+
 # --- CONFIGURATION ---
-SENDER_EMAIL = "your_email@gmail.com"
-SENDER_PASSWORD = "your_app_password"  # Generated from Google Account App Passwords
-RECIPIENT_EMAIL = "wife_email@gmail.com"
+# Leave these as-is if using GitHub Secrets, or replace with fallback strings
+import os
+
+SENDER_EMAIL = os.getenv("SENDER_EMAIL")
+SENDER_PASSWORD = os.getenv("SENDER_PASSWORD")
+RECIPIENT_EMAIL = os.getenv("SENDER_EMAIL")  # Sends to yourself, or replace with recipient email
 
 def get_woolworths_half_price():
     """Fetch 50% off specials from Woolworths API."""
     url = "https://www.woolworths.com.au/apis/ui/browse/category"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     payload = {
         "categoryId": "1_39A132C", # Specials category
@@ -17,7 +24,7 @@ def get_woolworths_half_price():
     }
     deals = []
     try:
-        res = requests.post(url, json=payload, headers=headers)
+        res = requests.post(url, json=payload, headers=headers, timeout=10)
         if res.status_code == 200:
             products = res.json().get("Bundles", [])
             for p in products:

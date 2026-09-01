@@ -2,21 +2,25 @@ name: Weekly Grocery Summary
 
 on:
   schedule:
-    # Runs at 7:00 AM UTC every Wednesday
-    - cron: '0 7 * * 3' 
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 7 * * 3' # 7:00 AM UTC every Wednesday
+  workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          pip install playwright requests
+          playwright install --with-deps chromium
+
       - name: Run script
         env:
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}

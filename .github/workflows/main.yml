@@ -1,28 +1,32 @@
-name: Weekly Grocery Summary
+name: Update Prices
 
 on:
   schedule:
-    - cron: '0 7 * * 3' # 7:00 AM UTC every Wednesday
-  workflow_dispatch:
+    - cron: '0 22 * * *'   # 8:00 AM Australian time
+  workflow_dispatch:       # allows manual run
 
 jobs:
-  run-script:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12'
 
       - name: Install dependencies
-        run: |
-          pip install playwright requests
-          playwright install --with-deps chromium
+        run: pip install requests
 
-      - name: Run script
+      - name: Run price collector
         env:
-          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
-          SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
+          PARSE_API_KEY: ${{ secrets.PARSE_API_KEY }}
         run: python deal_notifier.py
+
+      - name: Commit and push prices.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add prices.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update prices $(date -u +%Y-%m-%d)" && git push)

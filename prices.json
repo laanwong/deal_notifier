@@ -1,50 +1,599 @@
 {
-  "updated": "2026-09-02 12:00 UTC",
+  "updated": "2026-09-03 11:30 UTC",
   "items": [
     {
-      "name": "Woolworths Whole Chicken",
+      "name": "Woolworths RSPCA Approved Chicken Whole 1.8kg - 2.2kg",
       "store": "Woolworths",
-      "price": 9.50,
-      "was_price": 12.00,
-      "is_on_special": true,
-      "cup_string": "$4.75 / kg",
+      "price": 9.9,
+      "was_price": 9.9,
+      "is_on_special": false,
+      "cup_string": "$4.50 / 1KG",
       "search_term": "whole chicken"
     },
     {
-      "name": "Coles Beef Mince 500g",
+      "name": "Macro Whole Chicken Free Range 1.15kg - 2.25kg",
+      "store": "Woolworths",
+      "price": 14.63,
+      "was_price": 14.63,
+      "is_on_special": false,
+      "cup_string": "$6.50 / 1KG",
+      "search_term": "whole chicken"
+    },
+    {
+      "name": "RSPCA Approved Medium Whole Chicken",
       "store": "Coles",
-      "price": 7.00,
-      "was_price": 9.50,
+      "price": 7.43,
+      "was_price": 9.08,
       "is_on_special": true,
-      "cup_string": "$14.00 / kg",
+      "cup_string": "",
+      "search_term": "whole chicken"
+    },
+    {
+      "name": "Whole Chicken",
+      "store": "Coles",
+      "price": 13.6,
+      "was_price": 13.6,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "whole chicken"
+    },
+    {
+      "name": "Woolworths RSPCA Approved Chicken Breast Fillet per 350g",
+      "store": "Woolworths",
+      "price": 9.0,
+      "was_price": 12.0,
+      "is_on_special": true,
+      "cup_string": "$9.00 / 1KG",
+      "search_term": "chicken breast"
+    },
+    {
+      "name": "Macro Chicken Breast Fillets Free Range 700g - 1.4kg",
+      "store": "Woolworths",
+      "price": 19.18,
+      "was_price": 19.18,
+      "is_on_special": false,
+      "cup_string": "$13.70 / 1KG",
+      "search_term": "chicken breast"
+    },
+    {
+      "name": "RSPCA Approved Chicken Breast Fillets Large Pack",
+      "store": "Coles",
+      "price": 15.4,
+      "was_price": 15.4,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "chicken breast"
+    },
+    {
+      "name": "RSPCA Approved Chicken Breast Fillets Small Pack",
+      "store": "Coles",
+      "price": 8.7,
+      "was_price": 8.7,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "chicken breast"
+    },
+    {
+      "name": "Woolworths Beef Mince 500g",
+      "store": "Woolworths",
+      "price": 8.0,
+      "was_price": 8.0,
+      "is_on_special": false,
+      "cup_string": "$16.00 / 1KG",
       "search_term": "beef mince"
     },
     {
-      "name": "Bananas",
+      "name": "Woolworths Heart Smart Extra Lean Beef Mince 500g",
       "store": "Woolworths",
-      "price": 2.90,
-      "was_price": 3.90,
+      "price": 10.0,
+      "was_price": 10.5,
       "is_on_special": true,
-      "cup_string": "$2.90 / kg",
+      "cup_string": "$20.00 / 1KG",
+      "search_term": "beef mince"
+    },
+    {
+      "name": "No Added Hormones Beef Regular Mince",
+      "store": "Coles",
+      "price": 14.5,
+      "was_price": 14.5,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "beef mince"
+    },
+    {
+      "name": "No Added Hormone Beef Extra Lean Mince",
+      "store": "Coles",
+      "price": 10.5,
+      "was_price": 10.5,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "beef mince"
+    },
+    {
+      "name": "Woolworths Lean Pork Mince 500g",
+      "store": "Woolworths",
+      "price": 7.5,
+      "was_price": 7.5,
+      "is_on_special": false,
+      "cup_string": "$15.00 / 1KG",
+      "search_term": "pork mince"
+    },
+    {
+      "name": "Woolworths Pork Mince 800g",
+      "store": "Woolworths",
+      "price": 8.8,
+      "was_price": 8.8,
+      "is_on_special": false,
+      "cup_string": "$11.00 / 1KG",
+      "search_term": "pork mince"
+    },
+    {
+      "name": "Regular Pork Mince",
+      "store": "Coles",
+      "price": 6.0,
+      "was_price": 6.0,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "pork mince"
+    },
+    {
+      "name": "5 Star Extra Lean Pork Mince",
+      "store": "Coles",
+      "price": 8.0,
+      "was_price": 8.0,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "pork mince"
+    },
+    {
+      "name": "Woolworths Lamb Midloins Chops 3 - 6 Pieces 450g - 800g",
+      "store": "Woolworths",
+      "price": 27.2,
+      "was_price": 27.2,
+      "is_on_special": false,
+      "cup_string": "$34.00 / 1KG",
+      "search_term": "lamb chops"
+    },
+    {
+      "name": "Woolworths Lamb Forequarter Chops 4-6 Pieces 800g - 1.4kg",
+      "store": "Woolworths",
+      "price": 33.6,
+      "was_price": 33.6,
+      "is_on_special": false,
+      "cup_string": "$24.00 / 1KG",
+      "search_term": "lamb chops"
+    },
+    {
+      "name": "Graze Lamb Extra Trim Cutlets 7x5",
+      "store": "Coles",
+      "price": 15.9,
+      "was_price": 15.9,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "lamb chops"
+    },
+    {
+      "name": "Lamb Cutlets",
+      "store": "Coles",
+      "price": 16.13,
+      "was_price": 19.13,
+      "is_on_special": true,
+      "cup_string": "",
+      "search_term": "lamb chops"
+    },
+    {
+      "name": "D'Orsogna Shortcut Bacon From the Deli per 125g",
+      "store": "Woolworths",
+      "price": 21.0,
+      "was_price": 21.0,
+      "is_on_special": false,
+      "cup_string": "$21.00 / 1KG",
+      "search_term": "bacon"
+    },
+    {
+      "name": "Hans Middle Bacon Rashers From the Deli per 170g",
+      "store": "Woolworths",
+      "price": 9.5,
+      "was_price": 19.0,
+      "is_on_special": true,
+      "cup_string": "$9.50 / 1KG",
+      "search_term": "bacon"
+    },
+    {
+      "name": "Short Cut Bacon",
+      "store": "Coles",
+      "price": 6.8,
+      "was_price": 6.8,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "bacon"
+    },
+    {
+      "name": "Middle Bacon",
+      "store": "Coles",
+      "price": 11.0,
+      "was_price": 11.0,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "bacon"
+    },
+    {
+      "name": "Cavendish Bananas each",
+      "store": "Woolworths",
+      "price": 0.83,
+      "was_price": 0.83,
+      "is_on_special": false,
+      "cup_string": "$0.83 / 1EA",
       "search_term": "bananas"
     },
     {
-      "name": "Full Cream Milk 1L",
-      "store": "Coles",
-      "price": 1.70,
-      "was_price": 1.70,
+      "name": "Eat Later Cavendish Bananas each",
+      "store": "Woolworths",
+      "price": 0.83,
+      "was_price": 0.83,
       "is_on_special": false,
-      "cup_string": "$1.70 / L",
-      "search_term": "full cream milk 1l"
+      "cup_string": "$0.83 / 1EA",
+      "search_term": "bananas"
     },
     {
-      "name": "Raisin Bread",
-      "store": "Woolworths",
-      "price": 3.50,
-      "was_price": 4.50,
-      "is_on_special": true,
+      "name": "Bananas",
+      "store": "Coles",
+      "price": 0.83,
+      "was_price": 0.83,
+      "is_on_special": false,
       "cup_string": "",
-      "search_term": "raisin bread"
+      "search_term": "bananas"
+    },
+    {
+      "name": "Bananas Mini Pack",
+      "store": "Coles",
+      "price": 4.9,
+      "was_price": 4.9,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "bananas"
+    },
+    {
+      "name": "Daily Juice Co Cloudy Apple Fruit Juice 2L",
+      "store": "Woolworths",
+      "price": 5.95,
+      "was_price": 5.95,
+      "is_on_special": false,
+      "cup_string": "$2.98 / 1L",
+      "search_term": "apples"
+    },
+    {
+      "name": "Fresh Pink Lady Apples each",
+      "store": "Woolworths",
+      "price": 1.31,
+      "was_price": 1.31,
+      "is_on_special": false,
+      "cup_string": "$1.31 / 1EA",
+      "search_term": "apples"
+    },
+    {
+      "name": "Pink Lady Apples Medium",
+      "store": "Coles",
+      "price": 1.5,
+      "was_price": 1.5,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "apples"
+    },
+    {
+      "name": "Royal Gala Apples Loose",
+      "store": "Coles",
+      "price": 1.34,
+      "was_price": 1.34,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "apples"
+    },
+    {
+      "name": "Hass Avocado each",
+      "store": "Woolworths",
+      "price": 2.3,
+      "was_price": 2.3,
+      "is_on_special": false,
+      "cup_string": "$2.30 / 1EA",
+      "search_term": "avocado"
+    },
+    {
+      "name": "Eat Now Hass Avocado each",
+      "store": "Woolworths",
+      "price": 2.3,
+      "was_price": 2.3,
+      "is_on_special": false,
+      "cup_string": "$2.30 / 1EA",
+      "search_term": "avocado"
+    },
+    {
+      "name": "Hass Avocados",
+      "store": "Coles",
+      "price": 2.5,
+      "was_price": 2.5,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "avocado"
+    },
+    {
+      "name": "I'm Perfect Avocados",
+      "store": "Coles",
+      "price": 6.9,
+      "was_price": 6.9,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "avocado"
+    },
+    {
+      "name": "Daily Juice Co Pulp Free Orange Fruit Juice 2L",
+      "store": "Woolworths",
+      "price": 5.95,
+      "was_price": 5.95,
+      "is_on_special": false,
+      "cup_string": "$2.98 / 1L",
+      "search_term": "oranges"
+    },
+    {
+      "name": "Daily Juice Co Orange Fruit Juice With Pulp 2L",
+      "store": "Woolworths",
+      "price": 5.95,
+      "was_price": 5.95,
+      "is_on_special": false,
+      "cup_string": "$2.98 / 1L",
+      "search_term": "oranges"
+    },
+    {
+      "name": "Orange Navel",
+      "store": "Coles",
+      "price": 0.98,
+      "was_price": 0.98,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "oranges"
+    },
+    {
+      "name": "Cara Cara Oranges",
+      "store": "Coles",
+      "price": 0.73,
+      "was_price": 0.73,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "oranges"
+    },
+    {
+      "name": "Fresh Broccoli each",
+      "store": "Woolworths",
+      "price": 1.49,
+      "was_price": 1.49,
+      "is_on_special": false,
+      "cup_string": "$1.49 / 1EA",
+      "search_term": "broccoli"
+    },
+    {
+      "name": "Woolworths Broccolini Bunch each",
+      "store": "Woolworths",
+      "price": 2.3,
+      "was_price": 2.3,
+      "is_on_special": false,
+      "cup_string": "$2.30 / 1EA",
+      "search_term": "broccoli"
+    },
+    {
+      "name": "Broccoli Medium",
+      "store": "Coles",
+      "price": 1.7,
+      "was_price": 1.7,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "broccoli"
+    },
+    {
+      "name": "Cauliflower Medium",
+      "store": "Coles",
+      "price": 2.9,
+      "was_price": 2.9,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "broccoli"
+    },
+    {
+      "name": "Woolworths Australian Grown Carrots 1kg",
+      "store": "Woolworths",
+      "price": 1.7,
+      "was_price": 1.7,
+      "is_on_special": false,
+      "cup_string": "$1.70 / 1KG",
+      "search_term": "carrots"
+    },
+    {
+      "name": "Carrot Fresh each",
+      "store": "Woolworths",
+      "price": 0.36,
+      "was_price": 0.36,
+      "is_on_special": false,
+      "cup_string": "$0.36 / 1EA",
+      "search_term": "carrots"
+    },
+    {
+      "name": "Carrots",
+      "store": "Coles",
+      "price": 1.7,
+      "was_price": 1.7,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "carrots"
+    },
+    {
+      "name": "Carrots Loose",
+      "store": "Coles",
+      "price": 0.44,
+      "was_price": 0.44,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "carrots"
+    },
+    {
+      "name": "Pringles Original Salted Potato Chips 53g",
+      "store": "Woolworths",
+      "price": 2.0,
+      "was_price": 2.7,
+      "is_on_special": true,
+      "cup_string": "$3.77 / 100G",
+      "search_term": "potatoes"
+    },
+    {
+      "name": "Pringles Original Salted Potato Chips 134g",
+      "store": "Woolworths",
+      "price": 2.75,
+      "was_price": 5.5,
+      "is_on_special": true,
+      "cup_string": "$2.05 / 100G",
+      "search_term": "potatoes"
+    },
+    {
+      "name": "Creme Gold Washed Potatoes Loose",
+      "store": "Coles",
+      "price": 0.75,
+      "was_price": 0.75,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "potatoes"
+    },
+    {
+      "name": "Potatoes Sweet Gold",
+      "store": "Coles",
+      "price": 1.75,
+      "was_price": 1.75,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "potatoes"
+    },
+    {
+      "name": "Gourmet Tomato each",
+      "store": "Woolworths",
+      "price": 0.54,
+      "was_price": 0.54,
+      "is_on_special": false,
+      "cup_string": "$0.54 / 1EA",
+      "search_term": "tomatoes"
+    },
+    {
+      "name": "Truss Tomatoes each",
+      "store": "Woolworths",
+      "price": 1.11,
+      "was_price": 1.11,
+      "is_on_special": false,
+      "cup_string": "$1.11 / 1EA",
+      "search_term": "tomatoes"
+    },
+    {
+      "name": "Tomatoes Gourmet",
+      "store": "Coles",
+      "price": 1.11,
+      "was_price": 1.11,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "tomatoes"
+    },
+    {
+      "name": "Tomatoes Greenhouse Truss",
+      "store": "Coles",
+      "price": 0.9,
+      "was_price": 0.9,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "tomatoes"
+    },
+    {
+      "name": "Onion Brown each",
+      "store": "Woolworths",
+      "price": 0.63,
+      "was_price": 0.63,
+      "is_on_special": false,
+      "cup_string": "$0.63 / 1EA",
+      "search_term": "onions"
+    },
+    {
+      "name": "Woolworths Onion Brown Bag 1kg",
+      "store": "Woolworths",
+      "price": 2.5,
+      "was_price": 2.5,
+      "is_on_special": false,
+      "cup_string": "$2.50 / 1KG",
+      "search_term": "onions"
+    },
+    {
+      "name": "Loose Brown Onions",
+      "store": "Coles",
+      "price": 0.84,
+      "was_price": 0.84,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "onions"
+    },
+    {
+      "name": "Brown Onions",
+      "store": "Coles",
+      "price": 2.5,
+      "was_price": 2.5,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "onions"
+    },
+    {
+      "name": "Iceberg Lettuce each",
+      "store": "Woolworths",
+      "price": 2.9,
+      "was_price": 2.9,
+      "is_on_special": false,
+      "cup_string": "$2.90 / 1EA",
+      "search_term": "lettuce"
+    },
+    {
+      "name": "Woolworths Cos Hearts Lettuce 2 pack",
+      "store": "Woolworths",
+      "price": 3.5,
+      "was_price": 3.5,
+      "is_on_special": false,
+      "cup_string": "$1.75 / 1EA",
+      "search_term": "lettuce"
+    },
+    {
+      "name": "Iceberg Lettuce",
+      "store": "Coles",
+      "price": 2.9,
+      "was_price": 2.9,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "lettuce"
+    },
+    {
+      "name": "Lettuce Cos Baby Hearts",
+      "store": "Coles",
+      "price": 3.0,
+      "was_price": 3.0,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "lettuce"
+    },
+    {
+      "name": "La Zuppa Soup Pouch Roasted Pumpkin 400g",
+      "store": "Woolworths",
+      "price": 4.7,
+      "was_price": 4.7,
+      "is_on_special": false,
+      "cup_string": "$1.18 / 100G",
+      "search_term": "pumpkin"
+    },
+    {
+      "name": "Hart & Soul Coconut Pumpkin Soup Pouch 400g",
+      "store": "Woolworths",
+      "price": 3.0,
+      "was_price": 4.5,
+      "is_on_special": true,
+      "cup_string": "$0.75 / 100G",
+      "search_term": "pumpkin"
     }
   ]
 }

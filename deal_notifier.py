@@ -2,12 +2,10 @@ import os
 import json
 import requests
 from datetime import datetime, timezone
+import time
 
 API_KEY = os.environ.get("PARSE_API_KEY")
-
-# Woolworths and Coles scraper IDs on Parse.bot
 WOOLIES_ID = "d5aff3d6-33c4-431f-bf9d-6191efaec2e6"
-COLES_ID   = "dd2897d9-0135-464a-b16a-54ccc10e02e4"
 
 ITEMS = [
     "whole chicken",
@@ -46,43 +44,32 @@ def search_woolworths(term):
     payload = {
         "search_term": term,
         "page": 1,
-        "page_size": 5,
+        "page_size": 3,
         "is_special": "false"
     }
-    headers = {"X-API-Key": API_KEY, "Content-Type": "application/json"}
+    headers = {
+        "X-API-Key": API_KEY,
+        "Content-Type": "application/json"
+    }
     try:
         r = requests.post(url, headers=headers, json=payload, timeout=30)
+        if r.status_code == 402:
+            print("Out of free credits (402). Stopping.")
+            return None  # signal to stop
         r.raise_for_status()
         data = r.json()
         if data.get("status") == "success":
             return data.get("data", {}).get("products", [])
     except Exception as e:
-        print(f"Woolworths error for '{term}': {e}")
+        print(f"Error searching '{term}': {e}")
     return []
 
-def search_coles(term):
-    url = f"https://api.parse.bot/scraper/{COLES_ID}/search_products"
-    params = {"query": term, "page": 1}
-    headers = {"X-API-Key": API_KEY}
-    try:
-        r = requests.get(url, headers=headers, params=params, timeout=30)
-        r.raise_for_status()
-        data = r.json()
-        # Coles response structure may vary slightly – we handle the common cases
-        if isinstance(data, dict):
-            products = data.get("data", {}).get("products") or data.get("products") or []
-            return products
-    except Exception as e:
-        print(f"Coles error for '{term}': {e}")
-    return []
-
-def normalise(product, store, search_term):
-    """Turn different store responses into one simple format"""
-    name = product.get("name") or product.get("Name") or product.get("title") or "Unknown"
-    price = product.get("price") or product.get("Price") or 0
-    was = product.get("was_price") or product.get("WasPrice") or price
-    on_special = product.get("is_on_special") or product.get("IsOnSpecial") or False
-    cup = product.get("cup_string") or product.get("CupString") or ""
+def normalise(product, search_term):
+    name = product.get("name") or "Unknown"
+    price = product.get("price") or 0
+    was = product.get("was_price") or price
+    on_special = product.get("is_on_special") or False
+    cup = product.get("cup_string") or ""
 
     try:
         price = float(price)
@@ -93,10 +80,10 @@ def normalise(product, store, search_term):
 
     return {
         "name": name,
-        "store": store,
+        "store": "Woolworths",
         "price": price,
         "was_price": was,
-        "is_on_special": bool(on_special) or (was > price + 0.01),
+        "is_on_special": bool(on_special) or (was > price + 0.05),
         "cup_string": cup,
         "search_term": search_term
     }
@@ -107,16 +94,17 @@ def main():
 
     for term in ITEMS:
         print(f"Searching: {term}")
+        products = search_woolworths(term)
 
-        # Woolworths
-        for p in search_woolworths(term)[:2]:   # take top 2 matches
-            results.append(normalise(p, "Woolworths", term))
+        if products is None:  # out of credits
+            break
 
-        # Coles
-        for p in search_coles(term)[:2]:
-            results.append(normalise(p, "Coles", term))
+        if products:
+            # Take only the best (first) match
+            results.append(normalise(products[0], term))
 
-    # Save the file the website reads
+        time.sleep(1)  # small pause to be polite
+
     output = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "items": results

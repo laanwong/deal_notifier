@@ -1,4 +1,77 @@
 {
-  "updated": "2026-09-11 23:34 UTC",
-  "items": []
+  "updated": "2026-09-12 12:00 UTC",
+  "items": [
+    {
+      "name": "Woolworths Whole Chicken",
+      "store": "Woolworths",
+      "price": 9.50,
+      "was_price": 12.00,
+      "is_on_special": true,
+      "cup_string": "$4.75 / kg",
+      "search_term": "whole chicken"
+    },
+    {
+      "name": "Chicken Breast Fillet 500g",
+      "store": "Woolworths",
+      "price": 8.00,
+      "was_price": 10.00,
+      "is_on_special": true,
+      "cup_string": "$16.00 / kg",
+      "search_term": "chicken breast"
+    },
+    {
+      "name": "Beef Mince 500g",
+      "store": "Woolworths",
+      "price": 7.50,
+      "was_price": 9.00,
+      "is_on_special": true,
+      "cup_string": "$15.00 / kg",
+      "search_term": "beef mince"
+    },
+    {
+      "name": "Bananas",
+      "store": "Woolworths",
+      "price": 2.90,
+      "was_price": 3.90,
+      "is_on_special": true,
+      "cup_string": "$2.90 / kg",
+      "search_term": "bananas"
+    },
+    {
+      "name": "Raisin Bread",
+      "store": "Woolworths",
+      "price": 3.50,
+      "was_price": 4.50,
+      "is_on_special": true,
+      "cup_string": "",
+      "search_term": "raisin bread"
+    },
+    {
+      "name": "Full Cream Milk 1L",
+      "store": "Woolworths",
+      "price": 1.70,
+      "was_price": 1.70,
+      "is_on_special": false,
+      "cup_string": "$1.70 / L",
+      "search_term": "full cream milk 1l"
+    },
+    {
+      "name": "Free Range Eggs 12 pack",
+      "store": "Woolworths",
+      "price": 6.50,
+      "was_price": 6.50,
+      "is_on_special": false,
+      "cup_string": "",
+      "search_term": "free range eggs"
+    },
+    {
+      "name": "Peanut Butter",
+      "store": "Woolworths",
+      "price": 4.00,
+      "was_price": 5.50,
+      "is_on_special": true,
+      "cup_string": "",
+      "search_term": "peanut butter"
+    }
+  ]
 }

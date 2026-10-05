@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-04 00:18 UTC",
+  "updated": "2026-10-05 00:24 UTC",
   "items": [
     {
       "name": "Macro Free Range Australian Whole Chicken 1kg - 2.2kg",
       "store": "Woolworths",
-      "price": 0.0,
+      "price": 14.3,
       "was_price": 14.3,
-      "is_on_special": true,
-      "cup_string": "",
+      "is_on_special": false,
+      "cup_string": "$6.50 / 1KG",
       "search_term": "whole chicken"
     },
     {
@@ -47,12 +47,21 @@
       "search_term": "lamb chops"
     },
     {
+      "name": "Made With Plants Meat Free Bacon 200g",
+      "store": "Woolworths",
+      "price": 9.5,
+      "was_price": 9.5,
+      "is_on_special": false,
+      "cup_string": "$47.50 / 1KG",
+      "search_term": "bacon"
+    },
+    {
       "name": "Cavendish Bananas each",
       "store": "Woolworths",
-      "price": 0.88,
-      "was_price": 0.88,
+      "price": 0.81,
+      "was_price": 0.81,
       "is_on_special": false,
-      "cup_string": "$0.88 / 1EA",
+      "cup_string": "$0.81 / 1EA",
       "search_term": "bananas"
     },
     {
@@ -65,39 +74,21 @@
       "search_term": "apples"
     },
     {
-      "name": "Hass Avocado each",
+      "name": "Temole Broccoli Puffs Cheese 56g",
       "store": "Woolworths",
-      "price": 2.5,
-      "was_price": 2.5,
+      "price": 5.0,
+      "was_price": 5.0,
       "is_on_special": false,
-      "cup_string": "$2.50 / 1EA",
-      "search_term": "avocado"
-    },
-    {
-      "name": "Remedy Switchel Blood Orange Cans 250mL x 4 pack",
-      "store": "Woolworths",
-      "price": 6.9,
-      "was_price": 9.9,
-      "is_on_special": true,
-      "cup_string": "$6.90 / 1L",
-      "search_term": "oranges"
-    },
-    {
-      "name": "Fresh Broccoli each",
-      "store": "Woolworths",
-      "price": 1.95,
-      "was_price": 1.95,
-      "is_on_special": false,
-      "cup_string": "$1.95 / 1EA",
+      "cup_string": "$8.93 / 100G",
       "search_term": "broccoli"
     },
     {
-      "name": "Woolworths Australian Grown Carrots 1kg",
+      "name": "Tasti Fruit + Vege Wholefood Balls Mango & Carrot 18 pack",
       "store": "Woolworths",
-      "price": 2.5,
-      "was_price": 2.5,
-      "is_on_special": false,
-      "cup_string": "$2.50 / 1KG",
+      "price": 6.0,
+      "was_price": 7.5,
+      "is_on_special": true,
+      "cup_string": "$2.90 / 100G",
       "search_term": "carrots"
     },
     {
@@ -108,15 +99,6 @@
       "is_on_special": false,
       "cup_string": "$10.67 / 1KG",
       "search_term": "potatoes"
-    },
-    {
-      "name": "Gourmet Tomato each",
-      "store": "Woolworths",
-      "price": 0.65,
-      "was_price": 0.65,
-      "is_on_special": false,
-      "cup_string": "$0.65 / 1EA",
-      "search_term": "tomatoes"
     },
     {
       "name": "Onion Brown each",
@@ -146,11 +128,11 @@
       "search_term": "pumpkin"
     },
     {
-      "name": "Tip Top The One Digestive Health Soft White Sliced Loaf 680g",
+      "name": "Wonder White Bread Vitamins & Minerals Sandwich 700g",
       "store": "Woolworths",
-      "price": 4.5,
-      "was_price": 5.0,
-      "is_on_special": true,
+      "price": 4.6,
+      "was_price": 4.6,
+      "is_on_special": false,
       "cup_string": "$0.66 / 100G",
       "search_term": "white bread"
     },
@@ -225,6 +207,15 @@
       "is_on_special": true,
       "cup_string": "$1.24 / 100G",
       "search_term": "peanut butter"
+    },
+    {
+      "name": "Kellogg's Coco Pops Chex Breakfast Cereal 500g",
+      "store": "Woolworths",
+      "price": 10.0,
+      "was_price": 10.0,
+      "is_on_special": false,
+      "cup_string": "$2.00 / 100G",
+      "search_term": "cereal"
     },
     {
       "name": "Woolworths Cashew & Macadamia Roasted & Salted 400g",

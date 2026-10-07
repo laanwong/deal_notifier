@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-06 02:06 UTC",
+  "updated": "2026-10-07 01:12 UTC",
   "items": [
     {
-      "name": "Woolworths RSPCA Approved Chicken Whole 1.8kg - 2.2kg",
+      "name": "Macro Free Range Australian Whole Chicken 1kg - 2.2kg",
       "store": "Woolworths",
-      "price": 9.9,
-      "was_price": 9.9,
+      "price": 14.3,
+      "was_price": 14.3,
       "is_on_special": false,
-      "cup_string": "$4.50 / 1KG",
+      "cup_string": "$6.50 / 1KG",
       "search_term": "whole chicken"
     },
     {
-      "name": "Woolworths RSPCA Approved Chicken Breast Fillet per 350g",
+      "name": "Woolworths RSPCA Approved Chicken Breast Fillet per 300g",
       "store": "Woolworths",
-      "price": 12.0,
+      "price": 9.5,
       "was_price": 12.0,
-      "is_on_special": false,
-      "cup_string": "$12.00 / 1KG",
+      "is_on_special": true,
+      "cup_string": "$9.50 / 1KG",
       "search_term": "chicken breast"
     },
     {
@@ -49,28 +49,28 @@
     {
       "name": "Hans Middle Bacon Rashers From the Deli per 170g",
       "store": "Woolworths",
-      "price": 12.5,
+      "price": 0.0,
       "was_price": 19.0,
       "is_on_special": true,
-      "cup_string": "$12.50 / 1KG",
+      "cup_string": "",
       "search_term": "bacon"
     },
     {
       "name": "Cavendish Bananas each",
       "store": "Woolworths",
-      "price": 0.81,
-      "was_price": 0.81,
+      "price": 0.7,
+      "was_price": 0.7,
       "is_on_special": false,
-      "cup_string": "$0.81 / 1EA",
+      "cup_string": "$0.70 / 1EA",
       "search_term": "bananas"
     },
     {
-      "name": "Fresh Pink Lady Apples each",
+      "name": "Willie Smith's Non Alcoholic Apple Cider 375mL x 4 pack",
       "store": "Woolworths",
-      "price": 1.31,
-      "was_price": 1.31,
+      "price": 17.0,
+      "was_price": 17.0,
       "is_on_special": false,
-      "cup_string": "$1.31 / 1EA",
+      "cup_string": "$11.33 / 1L",
       "search_term": "apples"
     },
     {
@@ -83,6 +83,15 @@
       "search_term": "avocado"
     },
     {
+      "name": "Remedy Switchel Blood Orange Cans 250mL x 4 pack",
+      "store": "Woolworths",
+      "price": 9.9,
+      "was_price": 9.9,
+      "is_on_special": false,
+      "cup_string": "$9.90 / 1L",
+      "search_term": "oranges"
+    },
+    {
       "name": "Fresh Broccoli each",
       "store": "Woolworths",
       "price": 1.95,
@@ -92,12 +101,12 @@
       "search_term": "broccoli"
     },
     {
-      "name": "Woolworths Australian Grown Carrots 1kg",
+      "name": "Carrot Fresh each",
       "store": "Woolworths",
-      "price": 2.5,
-      "was_price": 2.5,
+      "price": 0.36,
+      "was_price": 0.36,
       "is_on_special": false,
-      "cup_string": "$2.50 / 1KG",
+      "cup_string": "$0.36 / 1EA",
       "search_term": "carrots"
     },
     {
@@ -112,28 +121,28 @@
     {
       "name": "Gourmet Tomato each",
       "store": "Woolworths",
-      "price": 0.98,
-      "was_price": 0.98,
+      "price": 1.09,
+      "was_price": 1.09,
       "is_on_special": false,
-      "cup_string": "$0.98 / 1EA",
+      "cup_string": "$1.09 / 1EA",
       "search_term": "tomatoes"
     },
     {
       "name": "Onion Brown each",
       "store": "Woolworths",
-      "price": 0.63,
-      "was_price": 0.63,
+      "price": 0.53,
+      "was_price": 0.53,
       "is_on_special": false,
-      "cup_string": "$0.63 / 1EA",
+      "cup_string": "$0.53 / 1EA",
       "search_term": "onions"
     },
     {
       "name": "Iceberg Lettuce each",
       "store": "Woolworths",
-      "price": 3.5,
-      "was_price": 3.5,
+      "price": 3.0,
+      "was_price": 3.0,
       "is_on_special": false,
-      "cup_string": "$3.50 / 1EA",
+      "cup_string": "$3.00 / 1EA",
       "search_term": "lettuce"
     },
     {
@@ -166,10 +175,10 @@
     {
       "name": "Tip Top Raisin Toast Loaf 500g",
       "store": "Woolworths",
-      "price": 4.5,
-      "was_price": 5.5,
-      "is_on_special": true,
-      "cup_string": "$0.90 / 100G",
+      "price": 5.7,
+      "was_price": 5.7,
+      "is_on_special": false,
+      "cup_string": "$1.14 / 100G",
       "search_term": "raisin bread"
     },
     {
@@ -182,12 +191,12 @@
       "search_term": "tortilla wraps"
     },
     {
-      "name": "Woolworths Full Cream Milk 1L",
+      "name": "Dairy Farmers Full Cream Milk 1L",
       "store": "Woolworths",
-      "price": 1.75,
-      "was_price": 1.75,
+      "price": 3.0,
+      "was_price": 3.0,
       "is_on_special": false,
-      "cup_string": "$1.75 / 1L",
+      "cup_string": "$3.00 / 1L",
       "search_term": "full cream milk 1l"
     },
     {
@@ -200,30 +209,30 @@
       "search_term": "free range eggs"
     },
     {
-      "name": "Woolworths Salted Butter 500g",
+      "name": "Western Star Spreadable Butter Blend Tub Supersoft 500g",
       "store": "Woolworths",
       "price": 7.0,
-      "was_price": 7.0,
-      "is_on_special": false,
+      "was_price": 7.9,
+      "is_on_special": true,
       "cup_string": "$1.40 / 100G",
       "search_term": "butter"
     },
     {
-      "name": "The Real Jam Co. Strawberry 500g",
+      "name": "Cottee's Strawberry Jam 375g",
       "store": "Woolworths",
-      "price": 3.0,
-      "was_price": 3.0,
+      "price": 3.8,
+      "was_price": 3.8,
       "is_on_special": false,
-      "cup_string": "$0.60 / 100G",
+      "cup_string": "$1.01 / 100G",
       "search_term": "jam"
     },
     {
       "name": "Pic's Smoochy Peanut Butter 380g",
       "store": "Woolworths",
-      "price": 4.7,
+      "price": 6.75,
       "was_price": 6.75,
-      "is_on_special": true,
-      "cup_string": "$1.24 / 100G",
+      "is_on_special": false,
+      "cup_string": "$1.78 / 100G",
       "search_term": "peanut butter"
     },
     {
@@ -236,21 +245,21 @@
       "search_term": "cereal"
     },
     {
-      "name": "Woolworths Cashew & Macadamia Roasted & Salted 400g",
+      "name": "Woolworths Macadamias 120g",
       "store": "Woolworths",
-      "price": 12.0,
-      "was_price": 12.0,
+      "price": 5.25,
+      "was_price": 5.25,
       "is_on_special": false,
-      "cup_string": "$30.00 / 1KG",
+      "cup_string": "$43.75 / 1KG",
       "search_term": "nuts"
     },
     {
-      "name": "LA Spearmint Sugar Free Chewing Gum Bottle 60g",
+      "name": "Extra Spearmint Sugar Free Chewing Gum Bottle 64g",
       "store": "Woolworths",
-      "price": 3.0,
-      "was_price": 3.0,
+      "price": 5.0,
+      "was_price": 5.0,
       "is_on_special": false,
-      "cup_string": "$5.00 / 100G",
+      "cup_string": "$7.81 / 100G",
       "search_term": "chewing gum"
     }
   ]

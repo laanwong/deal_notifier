@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-07 01:12 UTC",
+  "updated": "2026-10-08 01:32 UTC",
   "items": [
     {
-      "name": "Macro Free Range Australian Whole Chicken 1kg - 2.2kg",
+      "name": "Woolworths RSPCA Approved Chicken Whole 1.8kg - 2.2kg",
       "store": "Woolworths",
-      "price": 14.3,
-      "was_price": 14.3,
+      "price": 9.46,
+      "was_price": 9.46,
       "is_on_special": false,
-      "cup_string": "$6.50 / 1KG",
+      "cup_string": "$4.30 / 1KG",
       "search_term": "whole chicken"
     },
     {
-      "name": "Woolworths RSPCA Approved Chicken Breast Fillet per 300g",
+      "name": "Woolworths RSPCA Approved Chicken Breast Fillet per 350g",
       "store": "Woolworths",
       "price": 9.5,
       "was_price": 12.0,
@@ -49,47 +49,38 @@
     {
       "name": "Hans Middle Bacon Rashers From the Deli per 170g",
       "store": "Woolworths",
-      "price": 0.0,
+      "price": 19.0,
       "was_price": 19.0,
-      "is_on_special": true,
-      "cup_string": "",
+      "is_on_special": false,
+      "cup_string": "$19.00 / 1KG",
       "search_term": "bacon"
     },
     {
       "name": "Cavendish Bananas each",
       "store": "Woolworths",
-      "price": 0.7,
-      "was_price": 0.7,
+      "price": 0.67,
+      "was_price": 0.67,
       "is_on_special": false,
-      "cup_string": "$0.70 / 1EA",
+      "cup_string": "$0.67 / 1EA",
       "search_term": "bananas"
     },
     {
-      "name": "Willie Smith's Non Alcoholic Apple Cider 375mL x 4 pack",
+      "name": "Fresh Pink Lady Apples each",
       "store": "Woolworths",
-      "price": 17.0,
-      "was_price": 17.0,
+      "price": 1.31,
+      "was_price": 1.31,
       "is_on_special": false,
-      "cup_string": "$11.33 / 1L",
+      "cup_string": "$1.31 / 1EA",
       "search_term": "apples"
     },
     {
-      "name": "Hass Avocado each",
+      "name": "MasterFoods Avocado Smash Spice Blend 35g",
       "store": "Woolworths",
-      "price": 2.5,
-      "was_price": 2.5,
+      "price": 3.5,
+      "was_price": 3.5,
       "is_on_special": false,
-      "cup_string": "$2.50 / 1EA",
+      "cup_string": "$1.00 / 10G",
       "search_term": "avocado"
-    },
-    {
-      "name": "Remedy Switchel Blood Orange Cans 250mL x 4 pack",
-      "store": "Woolworths",
-      "price": 9.9,
-      "was_price": 9.9,
-      "is_on_special": false,
-      "cup_string": "$9.90 / 1L",
-      "search_term": "oranges"
     },
     {
       "name": "Fresh Broccoli each",
@@ -101,12 +92,12 @@
       "search_term": "broccoli"
     },
     {
-      "name": "Carrot Fresh each",
+      "name": "Woolworths Australian Grown Carrots 1kg",
       "store": "Woolworths",
-      "price": 0.36,
-      "was_price": 0.36,
+      "price": 2.0,
+      "was_price": 2.0,
       "is_on_special": false,
-      "cup_string": "$0.36 / 1EA",
+      "cup_string": "$2.00 / 1KG",
       "search_term": "carrots"
     },
     {
@@ -121,20 +112,11 @@
     {
       "name": "Gourmet Tomato each",
       "store": "Woolworths",
-      "price": 1.09,
-      "was_price": 1.09,
+      "price": 0.98,
+      "was_price": 0.98,
       "is_on_special": false,
-      "cup_string": "$1.09 / 1EA",
+      "cup_string": "$0.98 / 1EA",
       "search_term": "tomatoes"
-    },
-    {
-      "name": "Onion Brown each",
-      "store": "Woolworths",
-      "price": 0.53,
-      "was_price": 0.53,
-      "is_on_special": false,
-      "cup_string": "$0.53 / 1EA",
-      "search_term": "onions"
     },
     {
       "name": "Iceberg Lettuce each",
@@ -252,15 +234,6 @@
       "is_on_special": false,
       "cup_string": "$43.75 / 1KG",
       "search_term": "nuts"
-    },
-    {
-      "name": "Extra Spearmint Sugar Free Chewing Gum Bottle 64g",
-      "store": "Woolworths",
-      "price": 5.0,
-      "was_price": 5.0,
-      "is_on_special": false,
-      "cup_string": "$7.81 / 100G",
-      "search_term": "chewing gum"
     }
   ]
 }

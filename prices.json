@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08 01:32 UTC",
+  "updated": "2026-10-09 01:42 UTC",
   "items": [
     {
       "name": "Woolworths RSPCA Approved Chicken Whole 1.8kg - 2.2kg",
@@ -29,42 +29,6 @@
       "search_term": "beef mince"
     },
     {
-      "name": "Woolworths Lean Pork Mince 500g",
-      "store": "Woolworths",
-      "price": 7.5,
-      "was_price": 7.5,
-      "is_on_special": false,
-      "cup_string": "$15.00 / 1KG",
-      "search_term": "pork mince"
-    },
-    {
-      "name": "Woolworths Lamb Midloins Chops 3 - 6 Pieces 450g - 800g",
-      "store": "Woolworths",
-      "price": 20.8,
-      "was_price": 27.2,
-      "is_on_special": true,
-      "cup_string": "$26.00 / 1KG",
-      "search_term": "lamb chops"
-    },
-    {
-      "name": "Hans Middle Bacon Rashers From the Deli per 170g",
-      "store": "Woolworths",
-      "price": 19.0,
-      "was_price": 19.0,
-      "is_on_special": false,
-      "cup_string": "$19.00 / 1KG",
-      "search_term": "bacon"
-    },
-    {
-      "name": "Cavendish Bananas each",
-      "store": "Woolworths",
-      "price": 0.67,
-      "was_price": 0.67,
-      "is_on_special": false,
-      "cup_string": "$0.67 / 1EA",
-      "search_term": "bananas"
-    },
-    {
       "name": "Fresh Pink Lady Apples each",
       "store": "Woolworths",
       "price": 1.31,
@@ -74,12 +38,12 @@
       "search_term": "apples"
     },
     {
-      "name": "MasterFoods Avocado Smash Spice Blend 35g",
+      "name": "Hass Avocado each",
       "store": "Woolworths",
-      "price": 3.5,
-      "was_price": 3.5,
+      "price": 2.5,
+      "was_price": 2.5,
       "is_on_special": false,
-      "cup_string": "$1.00 / 10G",
+      "cup_string": "$2.50 / 1EA",
       "search_term": "avocado"
     },
     {
@@ -92,24 +56,6 @@
       "search_term": "broccoli"
     },
     {
-      "name": "Woolworths Australian Grown Carrots 1kg",
-      "store": "Woolworths",
-      "price": 2.0,
-      "was_price": 2.0,
-      "is_on_special": false,
-      "cup_string": "$2.00 / 1KG",
-      "search_term": "carrots"
-    },
-    {
-      "name": "Birds Eye Deli Seasoned Roast Potatoes Rosemary & Garlic 600g",
-      "store": "Woolworths",
-      "price": 6.4,
-      "was_price": 6.4,
-      "is_on_special": false,
-      "cup_string": "$10.67 / 1KG",
-      "search_term": "potatoes"
-    },
-    {
       "name": "Gourmet Tomato each",
       "store": "Woolworths",
       "price": 0.98,
@@ -117,6 +63,15 @@
       "is_on_special": false,
       "cup_string": "$0.98 / 1EA",
       "search_term": "tomatoes"
+    },
+    {
+      "name": "Blue Banner Sliced Red Pickled Onions 525g",
+      "store": "Woolworths",
+      "price": 7.0,
+      "was_price": 7.0,
+      "is_on_special": false,
+      "cup_string": "$1.33 / 100G",
+      "search_term": "onions"
     },
     {
       "name": "Iceberg Lettuce each",
@@ -128,33 +83,6 @@
       "search_term": "lettuce"
     },
     {
-      "name": "Hart & Soul Coconut Pumpkin Soup Pouch 400g",
-      "store": "Woolworths",
-      "price": 3.85,
-      "was_price": 4.5,
-      "is_on_special": true,
-      "cup_string": "$0.96 / 100G",
-      "search_term": "pumpkin"
-    },
-    {
-      "name": "Tip Top The One Digestive Health Soft White Sliced Loaf 680g",
-      "store": "Woolworths",
-      "price": 4.5,
-      "was_price": 5.0,
-      "is_on_special": true,
-      "cup_string": "$0.66 / 100G",
-      "search_term": "white bread"
-    },
-    {
-      "name": "Tip Top The One Digestive Health Soft Wholemeal Sliced Loaf 680g",
-      "store": "Woolworths",
-      "price": 4.5,
-      "was_price": 5.0,
-      "is_on_special": true,
-      "cup_string": "$0.66 / 100G",
-      "search_term": "wholemeal bread"
-    },
-    {
       "name": "Tip Top Raisin Toast Loaf 500g",
       "store": "Woolworths",
       "price": 5.7,
@@ -162,24 +90,6 @@
       "is_on_special": false,
       "cup_string": "$1.14 / 100G",
       "search_term": "raisin bread"
-    },
-    {
-      "name": "Old El Paso Fajita Tortilla Wraps 10 pack",
-      "store": "Woolworths",
-      "price": 6.0,
-      "was_price": 6.0,
-      "is_on_special": false,
-      "cup_string": "$1.50 / 100G",
-      "search_term": "tortilla wraps"
-    },
-    {
-      "name": "Dairy Farmers Full Cream Milk 1L",
-      "store": "Woolworths",
-      "price": 3.0,
-      "was_price": 3.0,
-      "is_on_special": false,
-      "cup_string": "$3.00 / 1L",
-      "search_term": "full cream milk 1l"
     },
     {
       "name": "Sunny Queen 12 Pack Extra Large Free Range Eggs 700g",
@@ -200,15 +110,6 @@
       "search_term": "butter"
     },
     {
-      "name": "Cottee's Strawberry Jam 375g",
-      "store": "Woolworths",
-      "price": 3.8,
-      "was_price": 3.8,
-      "is_on_special": false,
-      "cup_string": "$1.01 / 100G",
-      "search_term": "jam"
-    },
-    {
       "name": "Pic's Smoochy Peanut Butter 380g",
       "store": "Woolworths",
       "price": 6.75,
@@ -216,15 +117,6 @@
       "is_on_special": false,
       "cup_string": "$1.78 / 100G",
       "search_term": "peanut butter"
-    },
-    {
-      "name": "Kellogg's Nutri Grain Protein Breakfast Cereal Bulk Pack 1kg",
-      "store": "Woolworths",
-      "price": 11.0,
-      "was_price": 11.0,
-      "is_on_special": false,
-      "cup_string": "$1.10 / 100G",
-      "search_term": "cereal"
     },
     {
       "name": "Woolworths Macadamias 120g",

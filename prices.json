@@ -1,4 +1,158 @@
 {
-  "updated": "2026-11-02 01:03 UTC",
-  "items": []
+  "updated": "2026-11-03 03:17 UTC",
+  "items": [
+    {
+      "name": "Steggles Family Roast Whole Chicken 1.8kg - 2.5kg",
+      "store": "Woolworths",
+      "price": 11.25,
+      "was_price": 17.5,
+      "is_on_special": true,
+      "cup_string": "$4.50 / 1KG",
+      "search_term": "whole chicken"
+    },
+    {
+      "name": "Woolworths Heart Smart Extra Lean Beef Mince 500g",
+      "store": "Woolworths",
+      "price": 9.8,
+      "was_price": 10.0,
+      "is_on_special": true,
+      "cup_string": "$19.60 / 1KG",
+      "search_term": "beef mince"
+    },
+    {
+      "name": "Woolworths Lean Pork Mince 500g",
+      "store": "Woolworths",
+      "price": 7.5,
+      "was_price": 7.5,
+      "is_on_special": false,
+      "cup_string": "$15.00 / 1KG",
+      "search_term": "pork mince"
+    },
+    {
+      "name": "Woolworths Lamb Midloins Chops 3 - 6 Pieces 450g - 800g",
+      "store": "Woolworths",
+      "price": 20.8,
+      "was_price": 27.2,
+      "is_on_special": true,
+      "cup_string": "$26.00 / 1KG",
+      "search_term": "lamb chops"
+    },
+    {
+      "name": "D'Orsogna Shortcut Bacon From the Deli per 125g",
+      "store": "Woolworths",
+      "price": 21.0,
+      "was_price": 21.0,
+      "is_on_special": false,
+      "cup_string": "$21.00 / 1KG",
+      "search_term": "bacon"
+    },
+    {
+      "name": "MasterFoods Avocado Smash Spice Blend 35g",
+      "store": "Woolworths",
+      "price": 3.5,
+      "was_price": 3.5,
+      "is_on_special": false,
+      "cup_string": "$1.00 / 10G",
+      "search_term": "avocado"
+    },
+    {
+      "name": "Remedy Switchel Blood Orange Cans 250mL x 4 pack",
+      "store": "Woolworths",
+      "price": 6.9,
+      "was_price": 9.9,
+      "is_on_special": true,
+      "cup_string": "$6.90 / 1L",
+      "search_term": "oranges"
+    },
+    {
+      "name": "Temole Broccoli Puffs Cheese 56g",
+      "store": "Woolworths",
+      "price": 5.0,
+      "was_price": 5.0,
+      "is_on_special": false,
+      "cup_string": "$8.93 / 100G",
+      "search_term": "broccoli"
+    },
+    {
+      "name": "Woolworths Australian Grown Carrots 1kg",
+      "store": "Woolworths",
+      "price": 2.2,
+      "was_price": 2.2,
+      "is_on_special": false,
+      "cup_string": "$2.20 / 1KG",
+      "search_term": "carrots"
+    },
+    {
+      "name": "Onion Brown each",
+      "store": "Woolworths",
+      "price": 0.63,
+      "was_price": 0.63,
+      "is_on_special": false,
+      "cup_string": "$0.63 / 1EA",
+      "search_term": "onions"
+    },
+    {
+      "name": "Woolworths Wholemeal Soft Sandwich Bread 650g",
+      "store": "Woolworths",
+      "price": 2.8,
+      "was_price": 2.8,
+      "is_on_special": false,
+      "cup_string": "$0.43 / 100G",
+      "search_term": "wholemeal bread"
+    },
+    {
+      "name": "Tip Top Raisin Toast Loaf 500g",
+      "store": "Woolworths",
+      "price": 4.7,
+      "was_price": 5.7,
+      "is_on_special": true,
+      "cup_string": "$0.94 / 100G",
+      "search_term": "raisin bread"
+    },
+    {
+      "name": "Woolworths Full Cream Milk 1L",
+      "store": "Woolworths",
+      "price": 1.75,
+      "was_price": 1.75,
+      "is_on_special": false,
+      "cup_string": "$1.75 / 1L",
+      "search_term": "full cream milk 1l"
+    },
+    {
+      "name": "Western Star Spreadable Butter Blend Tub Supersoft 500g",
+      "store": "Woolworths",
+      "price": 7.0,
+      "was_price": 7.9,
+      "is_on_special": true,
+      "cup_string": "$1.40 / 100G",
+      "search_term": "butter"
+    },
+    {
+      "name": "Cottee's Strawberry Jam 375g",
+      "store": "Woolworths",
+      "price": 3.8,
+      "was_price": 3.8,
+      "is_on_special": false,
+      "cup_string": "$1.01 / 100G",
+      "search_term": "jam"
+    },
+    {
+      "name": "Pic's Smoochy Peanut Butter 380g",
+      "store": "Woolworths",
+      "price": 6.75,
+      "was_price": 6.75,
+      "is_on_special": false,
+      "cup_string": "$1.78 / 100G",
+      "search_term": "peanut butter"
+    },
+    {
+      "name": "LA Spearmint Sugar Free Chewing Gum Bottle 60g",
+      "store": "Woolworths",
+      "price": 3.0,
+      "was_price": 3.0,
+      "is_on_special": false,
+      "cup_string": "$5.00 / 100G",
+      "search_term": "chewing gum"
+    }
+  ]
 }

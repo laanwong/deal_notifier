@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06 01:59 UTC",
+  "updated": "2026-11-07 01:28 UTC",
   "items": [
     {
       "name": "Woolworths RSPCA Approved Chicken Whole 1.8kg - 2.2kg",
@@ -56,6 +56,15 @@
       "search_term": "bacon"
     },
     {
+      "name": "Cavendish Bananas each",
+      "store": "Woolworths",
+      "price": 0.81,
+      "was_price": 0.81,
+      "is_on_special": false,
+      "cup_string": "$0.81 / 1EA",
+      "search_term": "bananas"
+    },
+    {
       "name": "Bellamy's Organic Apple Snacks 12+ Months 20g",
       "store": "Woolworths",
       "price": 3.4,
@@ -101,12 +110,12 @@
       "search_term": "carrots"
     },
     {
-      "name": "Birds Eye Deli Seasoned Roast Potatoes Rosemary & Garlic 600g",
+      "name": "Potato White Washed each",
       "store": "Woolworths",
-      "price": 6.4,
-      "was_price": 6.4,
+      "price": 0.9,
+      "was_price": 0.9,
       "is_on_special": false,
-      "cup_string": "$10.67 / 1KG",
+      "cup_string": "$0.90 / 1EA",
       "search_term": "potatoes"
     },
     {
@@ -130,10 +139,10 @@
     {
       "name": "Iceberg Lettuce each",
       "store": "Woolworths",
-      "price": 4.5,
-      "was_price": 4.5,
+      "price": 3.0,
+      "was_price": 3.0,
       "is_on_special": false,
-      "cup_string": "$4.50 / 1EA",
+      "cup_string": "$3.00 / 1EA",
       "search_term": "lettuce"
     },
     {
@@ -155,12 +164,12 @@
       "search_term": "white bread"
     },
     {
-      "name": "Woolworths Wholemeal Soft Sandwich Bread 700g",
+      "name": "Woolworths Wholemeal Soft Sandwich Bread 650g",
       "store": "Woolworths",
       "price": 2.8,
       "was_price": 2.8,
       "is_on_special": false,
-      "cup_string": "$0.40 / 100G",
+      "cup_string": "$0.43 / 100G",
       "search_term": "wholemeal bread"
     },
     {

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-07 01:28 UTC",
+  "updated": "2026-11-08 01:05 UTC",
   "items": [
     {
-      "name": "Woolworths RSPCA Approved Chicken Whole 1.8kg - 2.2kg",
+      "name": "Steggles Family Roast Whole Chicken 1.8kg - 2.5kg",
       "store": "Woolworths",
-      "price": 9.46,
-      "was_price": 9.46,
-      "is_on_special": false,
-      "cup_string": "$4.30 / 1KG",
+      "price": 11.25,
+      "was_price": 17.5,
+      "is_on_special": true,
+      "cup_string": "$4.50 / 1KG",
       "search_term": "whole chicken"
     },
     {
@@ -94,10 +94,10 @@
     {
       "name": "Fresh Broccoli each",
       "store": "Woolworths",
-      "price": 2.28,
-      "was_price": 2.28,
+      "price": 2.15,
+      "was_price": 2.15,
       "is_on_special": false,
-      "cup_string": "$2.28 / 1EA",
+      "cup_string": "$2.15 / 1EA",
       "search_term": "broccoli"
     },
     {
@@ -121,10 +121,10 @@
     {
       "name": "Gourmet Tomato each",
       "store": "Woolworths",
-      "price": 0.98,
-      "was_price": 0.98,
+      "price": 0.43,
+      "was_price": 0.43,
       "is_on_special": false,
-      "cup_string": "$0.98 / 1EA",
+      "cup_string": "$0.43 / 1EA",
       "search_term": "tomatoes"
     },
     {
@@ -139,10 +139,10 @@
     {
       "name": "Iceberg Lettuce each",
       "store": "Woolworths",
-      "price": 3.0,
-      "was_price": 3.0,
+      "price": 4.9,
+      "was_price": 4.9,
       "is_on_special": false,
-      "cup_string": "$3.00 / 1EA",
+      "cup_string": "$4.90 / 1EA",
       "search_term": "lettuce"
     },
     {
@@ -191,12 +191,12 @@
       "search_term": "tortilla wraps"
     },
     {
-      "name": "Dairy Farmers Full Cream Milk 1L",
+      "name": "Woolworths Full Cream Milk 1L",
       "store": "Woolworths",
-      "price": 3.0,
-      "was_price": 3.0,
+      "price": 1.75,
+      "was_price": 1.75,
       "is_on_special": false,
-      "cup_string": "$3.00 / 1L",
+      "cup_string": "$1.75 / 1L",
       "search_term": "full cream milk 1l"
     },
     {
@@ -254,7 +254,7 @@
       "search_term": "nuts"
     },
     {
-      "name": "LA Spearmint Sugar Free Chewing Gum Bottle 60g",
+      "name": "LA Watermelon Chewing Gum Gum Bottle 60g",
       "store": "Woolworths",
       "price": 3.0,
       "was_price": 3.0,

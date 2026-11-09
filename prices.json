@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-08 01:05 UTC",
+  "updated": "2026-11-09 01:23 UTC",
   "items": [
     {
-      "name": "Steggles Family Roast Whole Chicken 1.8kg - 2.5kg",
+      "name": "Woolworths RSPCA Approved Chicken Whole 1.8kg - 2.2kg",
       "store": "Woolworths",
-      "price": 11.25,
-      "was_price": 17.5,
-      "is_on_special": true,
-      "cup_string": "$4.50 / 1KG",
+      "price": 9.46,
+      "was_price": 9.46,
+      "is_on_special": false,
+      "cup_string": "$4.30 / 1KG",
       "search_term": "whole chicken"
     },
     {
@@ -65,12 +65,12 @@
       "search_term": "bananas"
     },
     {
-      "name": "Bellamy's Organic Apple Snacks 12+ Months 20g",
+      "name": "Fresh Pink Lady Apples each",
       "store": "Woolworths",
-      "price": 3.4,
-      "was_price": 3.4,
+      "price": 1.31,
+      "was_price": 1.31,
       "is_on_special": false,
-      "cup_string": "$17.00 / 100G",
+      "cup_string": "$1.31 / 1EA",
       "search_term": "apples"
     },
     {
@@ -83,21 +83,21 @@
       "search_term": "avocado"
     },
     {
-      "name": "Orange Navel each",
+      "name": "Nudie Nothing But Oranges Pulp Free Juice 2L",
       "store": "Woolworths",
-      "price": 1.49,
-      "was_price": 1.49,
+      "price": 9.5,
+      "was_price": 9.5,
       "is_on_special": false,
-      "cup_string": "$1.49 / 1EA",
+      "cup_string": "$4.75 / 1L",
       "search_term": "oranges"
     },
     {
-      "name": "Fresh Broccoli each",
+      "name": "Temole Broccoli Puffs Sweet Chilli 56g",
       "store": "Woolworths",
-      "price": 2.15,
-      "was_price": 2.15,
-      "is_on_special": false,
-      "cup_string": "$2.15 / 1EA",
+      "price": 4.0,
+      "was_price": 5.0,
+      "is_on_special": true,
+      "cup_string": "$7.14 / 100G",
       "search_term": "broccoli"
     },
     {
@@ -110,21 +110,21 @@
       "search_term": "carrots"
     },
     {
-      "name": "Potato White Washed each",
+      "name": "Birds Eye Deli Seasoned Roast Potatoes Rosemary & Garlic 600g",
       "store": "Woolworths",
-      "price": 0.9,
-      "was_price": 0.9,
+      "price": 6.4,
+      "was_price": 6.4,
       "is_on_special": false,
-      "cup_string": "$0.90 / 1EA",
+      "cup_string": "$10.67 / 1KG",
       "search_term": "potatoes"
     },
     {
       "name": "Gourmet Tomato each",
       "store": "Woolworths",
-      "price": 0.43,
-      "was_price": 0.43,
+      "price": 0.98,
+      "was_price": 0.98,
       "is_on_special": false,
-      "cup_string": "$0.43 / 1EA",
+      "cup_string": "$0.98 / 1EA",
       "search_term": "tomatoes"
     },
     {
@@ -157,19 +157,19 @@
     {
       "name": "Woolworths White Sandwich Bread Loaf 650g",
       "store": "Woolworths",
-      "price": 2.5,
-      "was_price": 2.5,
+      "price": 2.7,
+      "was_price": 2.7,
       "is_on_special": false,
-      "cup_string": "$0.38 / 100G",
+      "cup_string": "$0.42 / 100G",
       "search_term": "white bread"
     },
     {
       "name": "Woolworths Wholemeal Soft Sandwich Bread 650g",
       "store": "Woolworths",
-      "price": 2.8,
-      "was_price": 2.8,
+      "price": 3.0,
+      "was_price": 3.0,
       "is_on_special": false,
-      "cup_string": "$0.43 / 100G",
+      "cup_string": "$0.46 / 100G",
       "search_term": "wholemeal bread"
     },
     {
@@ -182,12 +182,12 @@
       "search_term": "raisin bread"
     },
     {
-      "name": "Old El Paso Fajita Tortilla Wraps 10 pack",
+      "name": "La Banderita Flour Tortilla 20 pack",
       "store": "Woolworths",
-      "price": 6.0,
-      "was_price": 6.0,
+      "price": 11.0,
+      "was_price": 11.0,
       "is_on_special": false,
-      "cup_string": "$1.50 / 100G",
+      "cup_string": "$1.72 / 100G",
       "search_term": "tortilla wraps"
     },
     {
@@ -227,15 +227,6 @@
       "search_term": "jam"
     },
     {
-      "name": "Pic's Smoochy Peanut Butter 380g",
-      "store": "Woolworths",
-      "price": 6.75,
-      "was_price": 6.75,
-      "is_on_special": false,
-      "cup_string": "$1.78 / 100G",
-      "search_term": "peanut butter"
-    },
-    {
       "name": "Uncle Tobys Plus Protein Breakfast Cereal 620g",
       "store": "Woolworths",
       "price": 9.5,
@@ -254,12 +245,12 @@
       "search_term": "nuts"
     },
     {
-      "name": "LA Watermelon Chewing Gum Gum Bottle 60g",
+      "name": "Extra Spearmint Sugar Free Chewing Gum Bottle 64g",
       "store": "Woolworths",
-      "price": 3.0,
-      "was_price": 3.0,
+      "price": 5.0,
+      "was_price": 5.0,
       "is_on_special": false,
-      "cup_string": "$5.00 / 100G",
+      "cup_string": "$7.81 / 100G",
       "search_term": "chewing gum"
     }
   ]

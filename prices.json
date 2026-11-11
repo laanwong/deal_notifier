@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 03:59 UTC",
+  "updated": "2026-11-11 01:34 UTC",
   "items": [
     {
       "name": "Woolworths RSPCA Approved Chicken Whole 1.8kg - 2.2kg",
@@ -11,7 +11,7 @@
       "search_term": "whole chicken"
     },
     {
-      "name": "Woolworths RSPCA Approved Chicken Breast Fillet per 300g",
+      "name": "Woolworths RSPCA Approved Chicken Breast Fillet per 350g",
       "store": "Woolworths",
       "price": 9.5,
       "was_price": 12.0,
@@ -49,10 +49,10 @@
     {
       "name": "D'Orsogna Shortcut Bacon From the Deli per 125g",
       "store": "Woolworths",
-      "price": 17.0,
+      "price": 21.0,
       "was_price": 21.0,
-      "is_on_special": true,
-      "cup_string": "$17.00 / 1KG",
+      "is_on_special": false,
+      "cup_string": "$21.00 / 1KG",
       "search_term": "bacon"
     },
     {
@@ -92,166 +92,31 @@
       "search_term": "oranges"
     },
     {
-      "name": "Fresh Broccoli each",
+      "name": "Temole Broccoli Puffs Sweet Chilli 56g",
       "store": "Woolworths",
-      "price": 2.94,
-      "was_price": 2.94,
+      "price": 5.0,
+      "was_price": 5.0,
       "is_on_special": false,
-      "cup_string": "$2.94 / 1EA",
+      "cup_string": "$8.93 / 100G",
       "search_term": "broccoli"
     },
     {
       "name": "Woolworths Australian Grown Carrots 1kg",
       "store": "Woolworths",
-      "price": 2.5,
-      "was_price": 2.5,
+      "price": 1.7,
+      "was_price": 1.7,
       "is_on_special": false,
-      "cup_string": "$2.50 / 1KG",
+      "cup_string": "$1.70 / 1KG",
       "search_term": "carrots"
     },
     {
-      "name": "Birds Eye Deli Seasoned Roast Potatoes Rosemary & Garlic 600g",
+      "name": "Potato White Washed each",
       "store": "Woolworths",
-      "price": 6.4,
-      "was_price": 6.4,
+      "price": 0.9,
+      "was_price": 0.9,
       "is_on_special": false,
-      "cup_string": "$10.67 / 1KG",
+      "cup_string": "$0.90 / 1EA",
       "search_term": "potatoes"
-    },
-    {
-      "name": "Gourmet Tomato each",
-      "store": "Woolworths",
-      "price": 0.0,
-      "was_price": 0.98,
-      "is_on_special": true,
-      "cup_string": "",
-      "search_term": "tomatoes"
-    },
-    {
-      "name": "Onion Brown each",
-      "store": "Woolworths",
-      "price": 0.63,
-      "was_price": 0.63,
-      "is_on_special": false,
-      "cup_string": "$0.63 / 1EA",
-      "search_term": "onions"
-    },
-    {
-      "name": "Iceberg Lettuce each",
-      "store": "Woolworths",
-      "price": 4.9,
-      "was_price": 4.9,
-      "is_on_special": false,
-      "cup_string": "$4.90 / 1EA",
-      "search_term": "lettuce"
-    },
-    {
-      "name": "Hart & Soul Coconut Pumpkin Soup Pouch 400g",
-      "store": "Woolworths",
-      "price": 4.5,
-      "was_price": 4.5,
-      "is_on_special": false,
-      "cup_string": "$1.13 / 100G",
-      "search_term": "pumpkin"
-    },
-    {
-      "name": "Woolworths White Sandwich Bread Loaf 650g",
-      "store": "Woolworths",
-      "price": 2.7,
-      "was_price": 2.7,
-      "is_on_special": false,
-      "cup_string": "$0.42 / 100G",
-      "search_term": "white bread"
-    },
-    {
-      "name": "Mighty Soft Raisin Toast 600g",
-      "store": "Woolworths",
-      "price": 4.5,
-      "was_price": 7.4,
-      "is_on_special": true,
-      "cup_string": "$0.75 / 100G",
-      "search_term": "raisin bread"
-    },
-    {
-      "name": "Old El Paso Family Tortilla Fajita Wraps 16 pack",
-      "store": "Woolworths",
-      "price": 5.85,
-      "was_price": 6.5,
-      "is_on_special": true,
-      "cup_string": "$0.91 / 100G",
-      "search_term": "tortilla wraps"
-    },
-    {
-      "name": "Woolworths Full Cream Milk 1L",
-      "store": "Woolworths",
-      "price": 1.75,
-      "was_price": 1.75,
-      "is_on_special": false,
-      "cup_string": "$1.75 / 1L",
-      "search_term": "full cream milk 1l"
-    },
-    {
-      "name": "Sunny Queen 12 Pack Extra Large Free Range Eggs 700g",
-      "store": "Woolworths",
-      "price": 7.3,
-      "was_price": 9.15,
-      "is_on_special": true,
-      "cup_string": "$1.04 / 100G",
-      "search_term": "free range eggs"
-    },
-    {
-      "name": "Western Star Spreadable Butter Blend Tub Supersoft 500g",
-      "store": "Woolworths",
-      "price": 7.0,
-      "was_price": 7.9,
-      "is_on_special": true,
-      "cup_string": "$1.40 / 100G",
-      "search_term": "butter"
-    },
-    {
-      "name": "Cottee's Strawberry Jam 375g",
-      "store": "Woolworths",
-      "price": 3.8,
-      "was_price": 3.8,
-      "is_on_special": false,
-      "cup_string": "$1.01 / 100G",
-      "search_term": "jam"
-    },
-    {
-      "name": "Pic's Smoochy Peanut Butter 380g",
-      "store": "Woolworths",
-      "price": 6.75,
-      "was_price": 6.75,
-      "is_on_special": false,
-      "cup_string": "$1.78 / 100G",
-      "search_term": "peanut butter"
-    },
-    {
-      "name": "Uncle Tobys Plus Protein Breakfast Cereal 620g",
-      "store": "Woolworths",
-      "price": 9.5,
-      "was_price": 9.5,
-      "is_on_special": false,
-      "cup_string": "$1.53 / 100G",
-      "search_term": "cereal"
-    },
-    {
-      "name": "Cadbury Milk Chocolate Covered Almonds 250g",
-      "store": "Woolworths",
-      "price": 6.5,
-      "was_price": 10.0,
-      "is_on_special": true,
-      "cup_string": "$2.60 / 100G",
-      "search_term": "nuts"
-    },
-    {
-      "name": "LA Watermelon Sugar Free Chewing Gum Bottle 60g",
-      "store": "Woolworths",
-      "price": 3.0,
-      "was_price": 3.0,
-      "is_on_special": false,
-      "cup_string": "$5.00 / 100G",
-      "search_term": "chewing gum"
     }
   ]
 }
